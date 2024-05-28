@@ -13,5 +13,4 @@ HTML/CSS/JavaScriptは、`assets`ディレクトリに入れてください。�
 - 言うほど厳格にピリピリする必要はないので、なんとな～く守ってください。知らんけど。
 
 ### JavaScript
-
-
+一応[Google JavaScript Style Guide](https://cou929.nu/data/google_javascript_style_guide/) を基準にはするが、長いので適当にかいつまんで読みやすいコードなら何でもいい。
