@@ -6,17 +6,17 @@
 ROOT/
   .Rules.md
   .README.md
-  /html/
+  /html/  # HTMLディレクトリ
     .html_files
   /assets/
-    /css/
+    /css/ # CSSディレクトリ
       .css_files
-      /bin/
+      /bin/ # 参照用CSSディレクトリ
         .min.css_files
-    /scss/
+    /scss/ # SCSSディレクトリ
       .scss_files
-    /js/
+    /js/ # JavaScriptディレクトリ
       .js_files
-    /fonts/
+    /fonts/ # フォント用CSSディレクトリ
       .fonts.css_files
 ```
