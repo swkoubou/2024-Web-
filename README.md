@@ -1,7 +1,7 @@
 #  ソフトウェア工房 Webプロジェクト
-
+---
 > ### ディレクトリ構成
-
+---
 ```directory
 ROOT
   .README.md
@@ -19,5 +19,18 @@ ROOT
     /fonts #フォント用CSSディレクトリ
       .fonts.css_files
 ```
-
-> ### 記述ルール
+---
+> ### コーディングについて
+---
+- **開発環境**
+  - VisualStudioCode
+  - 拡張機能
+    - Live Sass Compiler
+    - Live Server
+- **CSSについて**
+  - htmlでは`min.css`を参照しています。
+  - SCSSを採用しています。
+     - 
+- **JSファイルは機能ごとに分けています**
+- ****
+---
