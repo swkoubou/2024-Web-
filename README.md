@@ -2,7 +2,7 @@
 
 > ### ディレクトリ構成
 
-```
+```directory
 ROOT
   .Rules.md
   .README.md
