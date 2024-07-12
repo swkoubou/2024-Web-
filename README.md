@@ -4,7 +4,6 @@
 
 ```directory
 ROOT
-  .Rules.md
   .README.md
   /html  #HTMLディレクトリ
     .html_files
@@ -20,3 +19,5 @@ ROOT
     /fonts #フォント用CSSディレクトリ
       .fonts.css_files
 ```
+
+> ### 記述ルール
