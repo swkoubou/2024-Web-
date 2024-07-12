@@ -3,7 +3,7 @@
 > ### ディレクトリ構成について
 ---
 `/`：ディレクトリ区切り `.`：カレントディレクトリ `#`：コメントアウト
-```directory
+```javascript
 ROOT
   .README.md
   .index.html
