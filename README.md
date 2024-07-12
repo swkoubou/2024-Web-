@@ -6,6 +6,7 @@
 ```directory
 ROOT
   .README.md
+  .index.html
   /html  #HTMLディレクトリ
     .html_files
   /assets
